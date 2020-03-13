@@ -1,0 +1,15 @@
+创建用户表 
+create table User(
+name char(20)  primary key,
+password char(20) unique
+);
+
+
+创建学生表
+create table Student(
+sno int  primary key auto_increment,
+sname char(10) not null,
+birthday date,
+minority char(4),
+place char(6),
+score char(6));
