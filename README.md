@@ -1,6 +1,7 @@
 # StudentManager
 # 学生管理系统
-
+# UI
+ ![StudentUI](https://raw.githubusercontent.com/qxlx/StudentManager/master/student.png)
 # 功能介绍
 1.1功能简介：完成操作员登录、学生信息的录入、查找、删除等功能
     学生信息包括：学号（唯一，为8位数字，如06010211前2位为年份，3-4位为系编号，后边是学生编号）、
